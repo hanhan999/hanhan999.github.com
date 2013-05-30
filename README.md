@@ -1,4 +1,5 @@
-hanhan999.github.com
-====================
+#My Blog
 
-ggggg
+## License
+
+[Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0/)
